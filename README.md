@@ -18,7 +18,7 @@
 ## インストール方法
 
 ```bash
-git clone https://github.com/fuurin7/hosei24/firstProject.git
+git clone https://github.com/fuurin7/hosei24-firstProject.git
 cd firstProject
 go mod init firstProject
 go mod tidy
